@@ -1,3 +1,2 @@
-bnnnn 
-git revert hard
-cxxx
+git revert commit id
+git push origin main
